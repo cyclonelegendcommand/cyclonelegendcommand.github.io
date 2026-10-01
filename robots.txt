@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cyclonelegendcommand.github.io/sitemap.xml
